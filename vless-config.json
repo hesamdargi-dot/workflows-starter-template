@@ -1,5 +1,1 @@
-{
-  "server": "b.ns.globalcdntech.com",
-  "host": "ro-7b33b625b2eb49ea96c44ab681ebb87e.db.arvandbaas.ir",
-  "port": 3306
-}
+vless://141a3c4c-92a6-440c-8a66-96edbbc506dc@b.ns.globalcdntech.com:3306/?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws#%40_Config%20PM%2011297
